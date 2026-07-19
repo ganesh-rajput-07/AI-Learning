@@ -1,13 +1,3 @@
-Bhai, yehi difference hoga **student** aur **AI Engineer** me.
-
-Student tutorials complete karta hai.
-
-AI Engineer **problems solve karta hai**.
-
-Isliye aaj main tujhe syntax practice nahi dunga. Main tujhe **real exercises** dunga jisse tujhe khud pata chalega ki Matplotlib samajh aaya ya nahi.
-
----
-
 # 📘 Day 03 — Matplotlib Exercise Sheet
 
 ## Difficulty
